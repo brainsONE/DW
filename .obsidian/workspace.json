@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "146aef52a5f04a7b",
+        "id": "d3bfa7e40e91f30e",
         "type": "tabs",
         "children": [
           {
-            "id": "af72310f56d65a97",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "docs/_media/数仓分层.md"
-              }
-            }
-          },
-          {
-            "id": "88e4c13b763742f5",
+            "id": "f8176e2cb9c3c2ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9a20f0eb047ec5a3",
@@ -168,17 +158,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "88e4c13b763742f5",
+  "active": "f8176e2cb9c3c2ea",
   "lastOpenFiles": [
+    "docs/大数据/阿里云离线数仓.md",
     "docs/README.md",
+    "docs/_media/阿里云离线数仓数仓分层.md",
     "docs/大数据/数据仓库.md",
-    "docs/_media/数仓分层.svg",
+    "docs/_media/阿里云离线数仓流程设计.md",
+    "docs/_media/阿里云离线数仓业务表结构.md",
     "docs/_media/数仓分层.md",
+    "docs/_media/数仓分层.svg",
     "docs/大数据/离线数仓.md",
-    "docs/_media/数仓分层.jpg",
-    "docs/_media/direction.svg",
-    "docs/_navbar.md",
-    "docs/java/Java基础.md",
-    "docs/_sidebar.md"
+    "docs/_media/数仓分层.jpg"
   ]
 }
