@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9a20f0eb047ec5a3",
@@ -171,13 +170,13 @@
   },
   "active": "88e4c13b763742f5",
   "lastOpenFiles": [
+    "docs/README.md",
+    "docs/大数据/数据仓库.md",
     "docs/_media/数仓分层.svg",
     "docs/_media/数仓分层.md",
-    "docs/大数据/数据仓库.md",
     "docs/大数据/离线数仓.md",
     "docs/_media/数仓分层.jpg",
     "docs/_media/direction.svg",
-    "docs/README.md",
     "docs/_navbar.md",
     "docs/java/Java基础.md",
     "docs/_sidebar.md"
