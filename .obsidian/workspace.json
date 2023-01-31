@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9a20f0eb047ec5a3",
@@ -160,15 +159,15 @@
   },
   "active": "f8176e2cb9c3c2ea",
   "lastOpenFiles": [
+    "docs/大数据/数据仓库理论.md",
+    "docs/大数据/数据仓库.md",
+    "docs/大数据/数据建模.md",
+    "docs/大数据/维度表设计.md",
+    "docs/大数据/事实表设计.md",
     "docs/大数据/阿里云离线数仓.md",
     "docs/README.md",
+    "Pasted image 20230131113837.png",
     "docs/_media/阿里云离线数仓数仓分层.md",
-    "docs/大数据/数据仓库.md",
-    "docs/_media/阿里云离线数仓流程设计.md",
-    "docs/_media/阿里云离线数仓业务表结构.md",
-    "docs/_media/数仓分层.md",
-    "docs/_media/数仓分层.svg",
-    "docs/大数据/离线数仓.md",
-    "docs/_media/数仓分层.jpg"
+    "docs/_media/阿里云离线数仓流程设计.md"
   ]
 }
